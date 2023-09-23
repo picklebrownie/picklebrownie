@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm an enthusiastic and highly motivated software developer with over five years of diverse experience. My passion for programming and ability to learn quickly on the job makes me an asset to any team seeking a software developer. Please contact me at [this.browniedev@gmail.com](mailto:this.browniedev@gmail.com) with any inquiries. 
+
+## My Projects
+
+I have a Portfolio [Landing Page](https://picklebrownie.vercel.app/) still in the works! ([repo](https://github.com/picklebrownie/my-portfolio))
+
+Checkout my [Made Up Salon](https://made-up-salon.vercel.app/) built using TypeScript, Next.js 13 app directory, and tailwind. ([repo](https://github.com/picklebrownie/next-made-up-salon))
+
+You won't want to miss this [Imaginary Jam](https://vite-imaginary-jam.vercel.app/) single page site built using Vite. ([repo](https://github.com/picklebrownie/vite-imaginary-jam))
 
 <!--
 **picklebrownie/picklebrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
