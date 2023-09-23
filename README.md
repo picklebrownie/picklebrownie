@@ -4,13 +4,17 @@
 
 I'm an enthusiastic and highly motivated software developer with over five years of diverse experience. My passion for programming and ability to learn quickly on the job makes me an asset to any team. Please contact me at [this.browniedev@gmail.com](mailto:this.browniedev@gmail.com) with any inquiries. 
 
-## My Projects
+## My Demos
 
 I have a Portfolio [Landing Page](https://picklebrownie.vercel.app/) still in the works! ([repo](https://github.com/picklebrownie/my-portfolio))
 
 Checkout my [Made Up Salon](https://made-up-salon.vercel.app/) built using TypeScript, Next.js 13 app directory, and tailwind. ([repo](https://github.com/picklebrownie/next-made-up-salon))
 
 You won't want to miss this [Imaginary Jam](https://vite-imaginary-jam.vercel.app/) single page site built using Vite. ([repo](https://github.com/picklebrownie/vite-imaginary-jam))
+
+## My Contributions
+
+I recently contributed to an open source project combining PHP 5 or 7, MariaDB, Nginx, phpMyAdmin, Xdebug, and Docker in a VSCode DevContainer. This project was built to help developers manage legacy codebases in a local environment. You can check out the [PHP 5 Starter](https://github.com/visualvoice/php5-mariadb-starter) and the [PHP 7 Starter](https://github.com/visualvoice/php7-mariadb-starter) repositories - I contributed to both codebases and the full wikis on how to set up and use each project. 
 
 ## My Resume
 
