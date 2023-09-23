@@ -16,6 +16,12 @@ You won't want to miss this [Imaginary Jam](https://vite-imaginary-jam.vercel.ap
 
 I recently contributed to an open source project combining PHP 5 or 7, MariaDB, Nginx, phpMyAdmin, Xdebug, and Docker in a VSCode DevContainer. This project was built to help developers manage legacy codebases in a local environment. You can check out the [PHP 5 Starter](https://github.com/visualvoice/php5-mariadb-starter) and the [PHP 7 Starter](https://github.com/visualvoice/php7-mariadb-starter) repositories - I contributed to both codebases and the full wikis on how to set up and use each project. 
 
+## My Projects
+
+Parallax is a term used by astronomers to describe the observed displacement of an object caused by the change of the observer's point of view. Astronomers use the principle of parallax to do things such as measure how far away stars and planets are. Developers use parallax to make stuff look *really* cool. My Laravel [Parallax Boilerplate](https://github.com/picklebrownie/parallax-boilerplate) is a demonstration of how we can use parallax to completely transform a static site.
+
+I participated in a PHP and MySQL challenge to recreate a dynamic website - you can follow the [repository](https://github.com/picklebrownie/interview-challenge)'s README to clone the project to your machine and explore my implementation.
+
 ## My Resume
 
 If you'd like to know more about my education and experience, please refer to my [resume](https://github.com/picklebrownie/picklebrownie/blob/master/Brown_Developer_Resume.pdf).
