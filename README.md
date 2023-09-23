@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-I'm an enthusiastic and highly motivated software developer with over five years of diverse experience. My passion for programming and ability to learn quickly on the job makes me an asset to any team seeking a software developer. Please contact me at [this.browniedev@gmail.com](mailto:this.browniedev@gmail.com) with any inquiries. 
+I'm an enthusiastic and highly motivated software developer with over five years of diverse experience. My passion for programming and ability to learn quickly on the job makes me an asset to any team. Please contact me at [this.browniedev@gmail.com](mailto:this.browniedev@gmail.com) with any inquiries. 
 
 ## My Projects
 
