@@ -24,7 +24,7 @@ I participated in a PHP and MySQL challenge to recreate a dynamic website - you 
 
 ## My Resume
 
-If you'd like to know more about my education and experience, please refer to my [resume](https://github.com/picklebrownie/picklebrownie/blob/master/Brown_Developer_Resume.pdf).
+If you'd like to know more about my education and experience, please refer to my [resume](https://github.com/picklebrownie/picklebrownie/blob/master/Brown_Developer_Resume.pdf) or my [LinkedIn](https://www.linkedin.com/in/browniedev/).
 
 <!--
 **picklebrownie/picklebrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
