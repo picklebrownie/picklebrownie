@@ -10,6 +10,10 @@ Checkout my [Made Up Salon](https://made-up-salon.vercel.app/) built using TypeS
 
 You won't want to miss this [Imaginary Jam](https://vite-imaginary-jam.vercel.app/) single page site built using Vite. ([repo](https://github.com/picklebrownie/vite-imaginary-jam))
 
+## My Resume
+
+If you'd like to know more about my education and experience, please refer to my [resume](https://github.com/picklebrownie/picklebrownie/blob/master/Brown_Developer_Resume.pdf).
+
 <!--
 **picklebrownie/picklebrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
