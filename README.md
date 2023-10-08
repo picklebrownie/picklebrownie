@@ -6,7 +6,7 @@ I'm an enthusiastic and highly motivated software developer with over five years
 
 ## My Demos
 
-I have a Portfolio [Landing Page](https://picklebrownie.vercel.app/) still in the works! ([repo](https://github.com/picklebrownie/my-portfolio))
+I have a [Portfolio](https://picklebrownie.vercel.app/) still in the works! ([repo](https://github.com/picklebrownie/my-portfolio))
 
 Checkout my [Made Up Salon](https://made-up-salon.vercel.app/) built using TypeScript, Next.js 13 app directory, and tailwind. ([repo](https://github.com/picklebrownie/next-made-up-salon))
 
